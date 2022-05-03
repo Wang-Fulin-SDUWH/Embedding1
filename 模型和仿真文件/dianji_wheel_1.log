@@ -1,0 +1,282 @@
+﻿UG to STEP
+! INFO-     NX STEP AP214 - V12.0
+! INFO-      
+! INFO-     Start of Translation: 10-DEC-2020  8:46:19 AM
+! INFO-      
+! STATUS-   Converting Part: D:\UG\大作业\整车装配\dianji_wheel_1.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: D:\UG\大作业\整车装配\dianji_wheel_1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 10-DEC-2020 8:46:22 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        dianji_wheel_1.stp
+! SUMMARY-  Date             2020-12-10T08:46:22+08:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v16.7
+! SUMMARY-  Orig_System      SIEMENS PLM Software NX 12.0
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:     97
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:    168
+! SUMMARY-  cartesian_point ............................................:    474
+! SUMMARY-  circle .....................................................:     69
+! SUMMARY-  closed_shell ...............................................:      1
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:     34
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:    488
+! SUMMARY-  edge_curve .................................................:    222
+! SUMMARY-  edge_loop ..................................................:    126
+! SUMMARY-  ellipse ....................................................:      1
+! SUMMARY-  face_bound .................................................:     50
+! SUMMARY-  face_outer_bound ...........................................:     76
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:    152
+! SUMMARY-  manifold_solid_brep ........................................:      1
+! SUMMARY-  oriented_edge ..............................................:    444
+! SUMMARY-  plane ......................................................:     63
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
+! SUMMARY-  vector .....................................................:    152
+! SUMMARY-  vertex_point ...............................................:    154
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                           2788
+! INFO-      
+! INFO-     User interface/default file
+! INFO-     Bspline aprx. value in effect for this translation : 2.540000e-02 mm
+! INFO-      
+! INFO-     Total number of solids input for this translation  :       1
+! INFO-      
+! INFO-     Number of solids processed without problems        :       1
+! INFO-      
+! INFO-     Number of solids with problems output as sheets    :       0
+! INFO-      
+! INFO-     Number of solids not processed                     :       0
+! INFO-      
+! INFO-     End of Translation: 10-DEC-2020  8:46:22 AM
+! INFO-      
+UG to STEP
+! INFO-     NX STEP AP214 - V12.0
+! INFO-      
+! INFO-     Start of Translation: 10-DEC-2020  8:55:10 AM
+! INFO-      
+! STATUS-   Converting Part: D:\UG\大作业\整车装配\dianji_wheel_1.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: D:\UG\大作业\整车装配\dianji_wheel_1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 10-DEC-2020 8:55:21 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        dianji_wheel_1.stp
+! SUMMARY-  Date             2020-12-10T08:55:21+08:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v16.7
+! SUMMARY-  Orig_System      SIEMENS PLM Software NX 12.0
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:     97
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:    168
+! SUMMARY-  cartesian_point ............................................:    474
+! SUMMARY-  circle .....................................................:     69
+! SUMMARY-  closed_shell ...............................................:      1
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:     34
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:    488
+! SUMMARY-  edge_curve .................................................:    222
+! SUMMARY-  edge_loop ..................................................:    126
+! SUMMARY-  ellipse ....................................................:      1
+! SUMMARY-  face_bound .................................................:     50
+! SUMMARY-  face_outer_bound ...........................................:     76
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:    152
+! SUMMARY-  manifold_solid_brep ........................................:      1
+! SUMMARY-  oriented_edge ..............................................:    444
+! SUMMARY-  plane ......................................................:     63
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
+! SUMMARY-  vector .....................................................:    152
+! SUMMARY-  vertex_point ...............................................:    154
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                           2788
+! INFO-      
+! INFO-     User interface/default file
+! INFO-     Bspline aprx. value in effect for this translation : 2.540000e-02 mm
+! INFO-      
+! INFO-     Total number of solids input for this translation  :       1
+! INFO-      
+! INFO-     Number of solids processed without problems        :       1
+! INFO-      
+! INFO-     Number of solids with problems output as sheets    :       0
+! INFO-      
+! INFO-     Number of solids not processed                     :       0
+! INFO-      
+! INFO-     End of Translation: 10-DEC-2020  8:55:21 AM
+! INFO-      
+UG to STEP
+! INFO-     NX STEP AP214 - V12.0
+! INFO-      
+! INFO-     Start of Translation: 10-DEC-2020  9:15:33 AM
+! INFO-      
+! STATUS-   Converting Part: D:\UG\大作业\整车装配\dianji_wheel_1.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: D:\UG\大作业\整车装配\dianji_wheel_1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              9
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 10-DEC-2020 9:15:48 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        dianji_wheel_1.stp
+! SUMMARY-  Date             2020-12-10T09:15:48+08:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v16.7
+! SUMMARY-  Orig_System      SIEMENS PLM Software NX 12.0
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:     97
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:    168
+! SUMMARY-  cartesian_point ............................................:    474
+! SUMMARY-  circle .....................................................:     69
+! SUMMARY-  closed_shell ...............................................:      1
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:     34
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:    488
+! SUMMARY-  edge_curve .................................................:    222
+! SUMMARY-  edge_loop ..................................................:    126
+! SUMMARY-  ellipse ....................................................:      1
+! SUMMARY-  face_bound .................................................:     50
+! SUMMARY-  face_outer_bound ...........................................:     76
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      1
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:    152
+! SUMMARY-  manifold_solid_brep ........................................:      1
+! SUMMARY-  oriented_edge ..............................................:    444
+! SUMMARY-  plane ......................................................:     63
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      1
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      1
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation_with_specified_source .........:      1
+! SUMMARY-  product_definition_shape ...................................:      1
+! SUMMARY-  product_related_product_category ...........................:      1
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      1
+! SUMMARY-  vector .....................................................:    152
+! SUMMARY-  vertex_point ...............................................:    154
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                           2788
+! INFO-      
+! INFO-     User interface/default file
+! INFO-     Bspline aprx. value in effect for this translation : 2.540000e-02 mm
+! INFO-      
+! INFO-     Total number of solids input for this translation  :       1
+! INFO-      
+! INFO-     Number of solids processed without problems        :       1
+! INFO-      
+! INFO-     Number of solids with problems output as sheets    :       0
+! INFO-      
+! INFO-     Number of solids not processed                     :       0
+! INFO-      
+! INFO-     End of Translation: 10-DEC-2020  9:15:49 AM
+! INFO-      

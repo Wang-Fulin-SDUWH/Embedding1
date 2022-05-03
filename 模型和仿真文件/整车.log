@@ -1,0 +1,1104 @@
+﻿UG to STEP
+! INFO-     NX STEP AP214 - V12.0
+! INFO-      
+! INFO-     Start of Translation: 13-DEC-2020  8:55:52 AM
+! INFO-      
+! STATUS-   Converting Part: D:\UG\大作业\整车装配\整车.prt
+! ERROR-     
+! ERROR-    IM0541 The following error message(s) were returned from UG
+! ERROR-           at part_load:
+! ERROR-     
+! ERROR-           Hex Bolt, AI,0.375-16x1_0.5.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! ERROR-           Hex Bolt, AM,M10x1.5x40.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: D:\UG\大作业\整车装配\整车.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     6
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             13
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: 轮子和前后转电机.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             15
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: new_frame.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: luosi.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             12
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: DUICHEN_轮子和前后转电机.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             15
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: duichen2_轮子和前后转电机.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             15
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: duichen2_DUICHEN_轮子和前后转电机.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             15
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: dianji_wheel_1_2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: dianji_wheel_1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: luowengun.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: _asm1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             11
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: liangan2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             14
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: lungu.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:   152
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            161
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: AM-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: AI-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: DUICHEN_AM-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: DUICHEN_AI-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: DUICHEN__asm1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             11
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: duichen2_AM-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: duichen2_AI-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: duichen2__asm1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             11
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: duichen2_DUICHEN__asm1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             11
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: duichen2_DUICHEN_AM-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: duichen2_DUICHEN_AI-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: model1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: model2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     3
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             11
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: model3.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-  For Part: model4.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     1
+! SUMMARY-  Matrix ......................:     1
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Body .....................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             10
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 13-DEC-2020 8:55:56 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        整车.stp
+! SUMMARY-  Date             2020-12-13T08:55:56+08:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v16.7
+! SUMMARY-  Orig_System      SIEMENS PLM Software NX 12.0
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   1478
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   1405
+! SUMMARY-  b_spline_curve_with_knots ..................................:   1596
+! SUMMARY-  b_spline_curve_with_knots_and_rational_b_spline_curve ......:      2
+! SUMMARY-  b_spline_surface_with_knots ................................:    305
+! SUMMARY-  b_spline_surface_with_knots_and_rational_b_spline_surface ..:     29
+! SUMMARY-  cartesian_point ............................................: 118476
+! SUMMARY-  circle .....................................................:    490
+! SUMMARY-  closed_shell ...............................................:    169
+! SUMMARY-  conical_surface ............................................:     26
+! SUMMARY-  context_dependent_shape_representation .....................:     54
+! SUMMARY-  conversion_based_unit_and_plane_angle_unit .................:      1
+! SUMMARY-  cylindrical_surface ........................................:    195
+! SUMMARY-  dimensional_exponents ......................................:      1
+! SUMMARY-  direction ..................................................:   4340
+! SUMMARY-  edge_curve .................................................:   3038
+! SUMMARY-  edge_loop ..................................................:   1692
+! SUMMARY-  ellipse ....................................................:     12
+! SUMMARY-  face_bound .................................................:    398
+! SUMMARY-  face_outer_bound ...........................................:   1294
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     28
+! SUMMARY-  item_defined_transformation ................................:     54
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:   1234
+! SUMMARY-  manifold_solid_brep ........................................:    169
+! SUMMARY-  next_assembly_usage_occurrence .............................:     54
+! SUMMARY-  oriented_edge ..............................................:   6076
+! SUMMARY-  plane ......................................................:    587
+! SUMMARY-  plane_angle_measure_with_unit ..............................:      1
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:     28
+! SUMMARY-  product_context ............................................:     28
+! SUMMARY-  product_definition .........................................:     28
+! SUMMARY-  product_definition_context .................................:     28
+! SUMMARY-  product_definition_formation_with_specified_source .........:     28
+! SUMMARY-  product_definition_shape ...................................:     82
+! SUMMARY-  product_related_product_category ...........................:     28
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:     54
+! SUMMARY-  shape_representation .......................................:     28
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  spherical_surface ..........................................:      1
+! SUMMARY-  surface_of_linear_extrusion ................................:    296
+! SUMMARY-  toroidal_surface ...........................................:     39
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     28
+! SUMMARY-  vector .....................................................:   1530
+! SUMMARY-  vertex_point ...............................................:   2058
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                         147492
+! INFO-      
+! INFO-     User interface/default file
+! INFO-     Bspline aprx. value in effect for this translation : 2.540000e-02 mm
+! INFO-      
+! INFO-     Total number of solids input for this translation  :     169
+! INFO-      
+! INFO-     Number of solids processed without problems        :     169
+! INFO-      
+! INFO-     Number of solids with problems output as sheets    :       0
+! INFO-      
+! INFO-     Number of solids not processed                     :       0
+! INFO-      
+! INFO-     End of Translation: 13-DEC-2020  8:55:57 AM
+! INFO-      
+UG to IGES
+! INFO-     NX V12.0 / IGES Specification 5.3
+! INFO-      
+! INFO-     Start of Translation: 13-DEC-2020  9:04:35 AM
+! INFO-      
+! STATUS-   Converting Part: D:\UG\大作业\整车装配\整车.prt
+! ERROR-     
+! ERROR-    IM0541 The following error message(s) were returned from UG
+! ERROR-           at part_load:
+! ERROR-     
+! ERROR-           Hex Bolt, AI,0.375-16x1_0.5.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! ERROR-           Hex Bolt, AM,M10x1.5x40.prt
+! ERROR-             -Failed to find file using current search options, part left unloaded
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: D:\UG\大作业\整车装配\整车.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Line ........................:     2
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Component ...................:     6
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             63
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: 轮子和前后转电机.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             63
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: new_frame.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     1
+! SUMMARY-  Line ........................:    72
+! SUMMARY-  Arc/Circle ..................:    20
+! SUMMARY-  B-Curve .....................:    72
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    10
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:    14
+! SUMMARY-  Trim Curve ..................:    24
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            262
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: luosi.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Line ........................:    16
+! SUMMARY-  Arc/Circle ..................:    48
+! SUMMARY-  B-Curve .....................:    64
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    10
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:    16
+! SUMMARY-  Trim Curve ..................:    24
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            226
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: DUICHEN_轮子和前后转电机.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             63
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: duichen2_轮子和前后转电机.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             63
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: duichen2_DUICHEN_轮子和前后转电机.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Component ...................:     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             63
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: dianji_wheel_1_2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     1
+! SUMMARY-  Line ........................:    48
+! SUMMARY-  Arc/Circle ..................:    96
+! SUMMARY-  B-Curve .....................:   144
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    18
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:    26
+! SUMMARY-  Trim Curve ..................:    28
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            410
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: dianji_wheel_1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     1
+! SUMMARY-  Line ........................:   327
+! SUMMARY-  Arc/Circle ..................:   142
+! SUMMARY-  Conic .......................:     2
+! SUMMARY-  B-Curve .....................:   468
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    12
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:    97
+! SUMMARY-  Trim Curve ..................:   116
+! SUMMARY-                                 -----
+! SUMMARY-  Total                           1214
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: luowengun.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     1
+! SUMMARY-  Line ........................:   444
+! SUMMARY-  Arc/Circle ..................:   296
+! SUMMARY-  Conic .......................:    21
+! SUMMARY-  B-Curve .....................:  1387
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    39
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:   163
+! SUMMARY-  Trim Curve ..................:   256
+! SUMMARY-                                 -----
+! SUMMARY-  Total                           2656
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: _asm1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             59
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: liangan2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     1
+! SUMMARY-  Line ........................:   106
+! SUMMARY-  Arc/Circle ..................:    22
+! SUMMARY-  B-Curve .....................:   128
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    13
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:    31
+! SUMMARY-  Trim Curve ..................:    35
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            385
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: lungu.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     1
+! SUMMARY-  Line ........................:  1414
+! SUMMARY-  Arc/Circle ..................:   287
+! SUMMARY-  B-Curve .....................:  6507
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    26
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:  1008
+! SUMMARY-  Trim Curve ..................:  1032
+! SUMMARY-                                 -----
+! SUMMARY-  Total                          10324
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: AM-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: AI-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: DUICHEN_AM-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: DUICHEN_AI-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: DUICHEN__asm1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             59
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: duichen2_AM-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: duichen2_AI-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: duichen2__asm1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             59
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: duichen2_DUICHEN__asm1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Component ...................:     4
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             59
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: duichen2_DUICHEN_AM-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: duichen2_DUICHEN_AI-Hex Bolt Stacks 2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:     1
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     1
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:     8
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                             29
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: model1.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     5
+! SUMMARY-  Line ........................:   258
+! SUMMARY-  Arc/Circle ..................:    84
+! SUMMARY-  B-Curve .....................:   428
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    12
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:    66
+! SUMMARY-  Trim Curve ..................:    68
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            970
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: model2.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     2
+! SUMMARY-  Arc/Circle ..................:     7
+! SUMMARY-  B-Curve .....................:    25
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     3
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    12
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:     5
+! SUMMARY-  Trim Curve ..................:     5
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            106
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: model3.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     1
+! SUMMARY-  Line ........................:   122
+! SUMMARY-  Arc/Circle ..................:    88
+! SUMMARY-  B-Curve .....................:   234
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    17
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:    49
+! SUMMARY-  Trim Curve ..................:    60
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            620
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Input Entities
+! SUMMARY-  For Part: model4.prt 
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point .......................:     1
+! SUMMARY-  Line ........................:    32
+! SUMMARY-  Arc/Circle ..................:    44
+! SUMMARY-  Conic .......................:     5
+! SUMMARY-  B-Curve .....................:    82
+! SUMMARY-  Part Attribute ..............:     1
+! SUMMARY-  Layer Category ..............:    27
+! SUMMARY-  Font ........................:     1
+! SUMMARY-  Color Table .................:     2
+! SUMMARY-  Coordinate System ...........:     2
+! SUMMARY-  Parameter ...................:     2
+! SUMMARY-  Matrix ......................:    17
+! SUMMARY-  View ........................:     8
+! SUMMARY-  Layout ......................:     5
+! SUMMARY-  Reference Set ...............:     1
+! SUMMARY-  Solid .......................:
+! SUMMARY-     Face .....................:    19
+! SUMMARY-  Trim Curve ..................:    24
+! SUMMARY-                                 -----
+! SUMMARY-  Total                            273
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 13-DEC-2020 9:04:45 AM
+! STATUS-    
+! ERROR-    CV0250 Zero length line encountered             UGID     83743
+! ERROR-    CV0300 Comp/Ptrn constituent entity unconverted UGID     83743
+! ERROR-    CV0250 Zero length line encountered             UGID     83744
+! ERROR-    CV0300 Comp/Ptrn constituent entity unconverted UGID     83744
+! STATUS-   Creating the IGES file (Phase 3 of 3): 13-DEC-2020  9:04:46 AM
+! SUMMARY-   
+! SUMMARY-  Summary of IGES Output Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Point ........................    11
+! SUMMARY-  Arc ..........................  1121
+! SUMMARY-  Line .........................  2213
+! SUMMARY-  Conic ........................    28
+! SUMMARY-  BSpline Curve ................  8613
+! SUMMARY-  Composite Curve ..............  2694
+! SUMMARY-  Curve on Surface .............  1476
+! SUMMARY-  Plane ........................
+! SUMMARY-      Unbounded ................    32
+! SUMMARY-  Trimmed Surface ..............  1369
+! SUMMARY-  BSpline Surface ..............  1502
+! SUMMARY-  Color ........................    15
+! SUMMARY-  Name .........................   125
+! SUMMARY-  Transformation ...............   114
+! SUMMARY-  Definition Levels ............    26
+! SUMMARY-  Level Function ...............    26
+! SUMMARY-  Instance .....................    54
+! SUMMARY-  Subfigure Definition .........    27
+! SUMMARY-  View .........................     8
+! SUMMARY-                                 -----
+! SUMMARY-  Total                          19454
+! INFO-      
+! INFO-     End of Translation: 13-DEC-2020  9:04:52 AM
+! INFO-      

@@ -1,0 +1,195 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V12.0
+! INFO-      
+! INFO-     Start of Translation: 14-DEC-2020  8:56:25 AM
+! INFO-      
+! STATUS-   Converting Part: D:\SolidworksFile\导轨\新导轨.STEP
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP214
+! SUMMARY-  Imp_Level        1
+! SUMMARY-  File_Name        新导轨.STEP
+! SUMMARY-  Date             2020-12-14T00:55:46
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      SwSTEP 2.0
+! SUMMARY-  Orig_System      SolidWorks 2020
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:   1485
+! SUMMARY-  application_context ........................................:     12
+! SUMMARY-  axis2_placement_3d .........................................:   2556
+! SUMMARY-  b_spline_curve_with_knots ..................................:     20
+! SUMMARY-  cartesian_point ............................................:   8640
+! SUMMARY-  circle .....................................................:   1062
+! SUMMARY-  closed_shell ...............................................:      5
+! SUMMARY-  conical_surface ............................................:     20
+! SUMMARY-  context_dependent_shape_representation .....................:      6
+! SUMMARY-  cylindrical_surface ........................................:    473
+! SUMMARY-  direction ..................................................:   8210
+! SUMMARY-  edge_curve .................................................:   4180
+! SUMMARY-  edge_loop ..................................................:   1604
+! SUMMARY-  face_bound .................................................:    119
+! SUMMARY-  face_outer_bound ...........................................:   1485
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:     78
+! SUMMARY-  item_defined_transformation ................................:      6
+! SUMMARY-  length_unit_and_si_unit ....................................:     78
+! SUMMARY-  line .......................................................:   3098
+! SUMMARY-  manifold_solid_brep ........................................:      5
+! SUMMARY-  next_assembly_usage_occurrence .............................:      6
+! SUMMARY-  oriented_edge ..............................................:   8360
+! SUMMARY-  plane ......................................................:    992
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:     78
+! SUMMARY-  product ....................................................:      6
+! SUMMARY-  product_context ............................................:      6
+! SUMMARY-  product_definition .........................................:      6
+! SUMMARY-  product_definition_context .................................:      6
+! SUMMARY-  product_definition_formation_with_specified_source .........:      6
+! SUMMARY-  product_definition_shape ...................................:     12
+! SUMMARY-  product_related_product_category ...........................:      6
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:      6
+! SUMMARY-  shape_representation .......................................:      6
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:     78
+! SUMMARY-  uncertainty_measure_with_unit ..............................:     78
+! SUMMARY-  vector .....................................................:   3098
+! SUMMARY-  vertex_point ...............................................:   2714
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          48606
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 14-DEC-2020 8:56:26 AM
+! STATUS-    
+! INFO-     CV0305 The entities referenced by a context_dependant_shape_rep are
+! INFO-       not coded as to STEP Part 43 requirements.  The references to the
+! INFO-       component and assembly pieces is out of order.  We will attempt
+! INFO-       to correct this with the given data.  This problem should be
+! INFO-       reported to the translator vendor whose product generated this
+! INFO-       STEP file.  If we are unable to rectify this problem the
+! INFO-       components may be positioned incorrectly.
+! INFO-      
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-DEC-2020  8:56:26 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 40881
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\SolidworksFile\导轨\ATP50H100-A-P30-KC90-QFC42-M8_b34509
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-DEC-2020  8:56:28 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 6608
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\SolidworksFile\导轨\ATBT-1500T10250-B-P150-NB47873
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-DEC-2020  8:56:30 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 40556
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\SolidworksFile\导轨\底板215410
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-DEC-2020  8:56:30 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 6867
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\SolidworksFile\导轨\底板中间35791
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-DEC-2020  8:56:31 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 39816
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\SolidworksFile\导轨\底板18911
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 14-DEC-2020  8:56:31 AM
+! INFO-     Filing Part ..: D:\SolidworksFile\导轨\新导轨_step.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     6
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              6
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         5
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         5
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 14-DEC-2020  8:56:31 AM
+! INFO-      
